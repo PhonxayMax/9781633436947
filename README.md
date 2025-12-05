@@ -12,8 +12,8 @@ A Jupyter notebook environment for AI engineering and prototyping.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PhonxayMax/runtime-2025-12-05-a.git
-cd runtime-2025-12-05-a
+git clone https://github.com/PhonxayMax/9781633436947.git
+cd 9781633436947
 ```
 
 2. Create virtual environment:
